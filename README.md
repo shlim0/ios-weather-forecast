@@ -87,13 +87,11 @@ WeatherForecast
 
 | 앱 실행시 기본 UI | 앱 실행시 현 위치 날씨 정보 수신 |
 |:-------:|:-------:|
-| ![Simulator Screenshot - iPhone 15 Pro - 2023-12-22 at 13.17.57](https://hackmd.io/_uploads/r1MlW6zv6.png)   | ![image](https://hackmd.io/_uploads/HkJXXpGvp.png)
-   |
+| ![Simulator Screenshot - iPhone 15 Pro - 2023-12-22 at 13.17.57](https://hackmd.io/_uploads/r1MlW6zv6.png)   | ![image](https://hackmd.io/_uploads/HkJXXpGvp.png) |
 
 | 위치 설정 | 위치 변경 | 위치 리셋  |
 |:-------:|:-------:|:-------:|
-| ![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.44.28](https://hackmd.io/_uploads/HJjmeTzvp.png)   |![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.46.59](https://hackmd.io/_uploads/BkGEeTGDp.png)   |   ![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.47.39](https://hackmd.io/_uploads/S1ySNpfv6.png)
-|
+| ![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.44.28](https://hackmd.io/_uploads/HJjmeTzvp.png)   |![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.46.59](https://hackmd.io/_uploads/BkGEeTGDp.png)   |   ![Simulator Screenshot - iPhone 15 Pro - 2023-12-21 at 18.47.39](https://hackmd.io/_uploads/S1ySNpfv6.png)|
 
 | 특정 위치 날씨 정보 수신 | 특정 위치 날씨 정보 수신 후 초기화 | 위치 권한이 없는 경우 기본 위치 날씨 정보를 수신 |
 |:-----:|:-----:|:-----:|
@@ -101,6 +99,7 @@ WeatherForecast
 
 
 ## 트러블 슈팅
+https://jjong-my.notion.site/Trouble-Shooting-b1d45951c8324d69926774373f817d26?pvs=4
 
 https://github.com/tasty-code/ios-weather-forecast/pull/25
 
